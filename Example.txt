@@ -1,1 +1,2 @@
 New File to test Git Rebase.
+Server Edit to test Git merge.
